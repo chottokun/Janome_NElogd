@@ -1,0 +1,1 @@
+# Janome_NElogd
