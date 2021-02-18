@@ -5,14 +5,14 @@ https://github.com/mocobeta/janome/wiki/(very-experimental)-NEologd-%E8%BE%9E%E6
 を参考にしながら実施してみました。  
 
 
-#結果  
+# 結果  
 ビルド出来たっぽい。400MB超え・・・。  
 
 
-#本当にやりたいこと  
+# 本当にやりたいこと  
 Janomeの辞書をIPAとNEologdとで切り替えたいけど、辞書作るのが大変。  
 
 
-#参照と感謝  
+# 参照と感謝  
 [Janome](https://mocobeta.github.io/janome/)  
 [NEologd](https://github.com/neologd/mecab-ipadic-neologd)  
