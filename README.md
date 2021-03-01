@@ -6,7 +6,8 @@ https://github.com/mocobeta/janome/wiki/(very-experimental)-NEologd-%E8%BE%9E%E6
 
 
 # 結果  
-ビルド出来たっぽい。400MB超え・・・。  
+-ビルド出来たっぽい。400MB超え・・・。<BR>
+-動作も確認。だが、「李もも桃もものうち」が名詞になってしまうのは仕様だろうか。
 
 
 # 本当にやりたいこと  
@@ -15,4 +16,5 @@ Janomeの辞書をIPAとNEologdとで切り替えたいけど、辞書作るの�
 
 # 参照と感謝  
 [Janome](https://mocobeta.github.io/janome/)  
-[NEologd](https://github.com/neologd/mecab-ipadic-neologd)  
+[NEologd](https://github.com/neologd/mecab-ipadic-neologd)
+辞書の著作権に関しては、参照先の表記に従います。
