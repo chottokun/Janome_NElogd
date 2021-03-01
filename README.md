@@ -15,6 +15,8 @@ Janomeの辞書をIPAとNEologdとで切り替えたいけど、辞書作るの�
 
 
 # 参照と感謝  
-[Janome](https://mocobeta.github.io/janome/)  
-[NEologd](https://github.com/neologd/mecab-ipadic-neologd)
+皆様に感謝。<BR>
+-[Janome](https://mocobeta.github.io/janome/)  
+-[NEologd](https://github.com/neologd/mecab-ipadic-neologd)
+<BR>
 辞書の著作権に関しては、参照先の表記に従います。
